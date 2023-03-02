@@ -1,5 +1,11 @@
+import { Results } from "./components/Results";
+import { Summary } from "./components/Summary";
+
 export function App() {
     return (
-        <h1>Resultados</h1>
+        <main>
+            <Results />
+            <Summary />
+        </main>
     )
 }

@@ -34,3 +34,11 @@ Quando utilizamos o export default, na importação importamos a função sem ch
 export default App => import App from './App'
 
 export function App() => import { App } from './App'
+
+# 01/03
+
+1º abrir o canvas
+
+2ª acessar os arquivos e baixar as 4 imagens que estão na pasta resultados
+
+3ª colocar as imagens dentro da pasta *assets*
