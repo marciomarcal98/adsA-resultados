@@ -1,5 +1,7 @@
 export function Summary() {
     return (
-        <h2>Summary</h2>
+        <section>
+            <h2>Summary</h2>
+        </section>
     )
 }
