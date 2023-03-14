@@ -1,0 +1,38 @@
+.results {
+    background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
+    text-align: center;
+    padding: 2.375rem 3.375rem;
+}
+
+.results h2 {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    color: #CAC9FF;
+    margin-bottom: 1.875rem;
+}
+
+.results div {
+    background: linear-gradient(180deg, #4D21C9 0%, rgba(37, 33, 201, 0) 100%, rgba(37, 33, 201, 0) 100%);
+    width: 12.5rem;
+    height: 12.5rem;
+    margin-inline: auto;
+    border-radius: 50%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.results div strong {
+    font-size: 4.5rem;
+    color: #fff;
+    line-height: 4.5rem;
+}
+
+.results div span {
+    font-size: 1.125rem;
+    line-height: 1.6875rem;
+    color: #CAC9FF;
+    opacity: 0.5;
+    font-weight: 700;
+}
